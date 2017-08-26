@@ -51,10 +51,10 @@
     "tap": "10.3.4"
   },
   "dependencies": {
-    "@unction/always": "1.0.1",
-    "@unction/ifthenelse": "1.0.1",
-    "@unction/itself": "1.0.1",
-    "@unction/mapvalues": "2.0.4"
+    "@unction/always": "2.0.0",
+    "@unction/ifthenelse": "2.0.0",
+    "@unction/itself": "2.0.0",
+    "@unction/mapvalues": "3.0.0"
   },
   "nyc": {
     "require": [
