@@ -1,7 +1,7 @@
 /* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type, no-magic-numbers */
 import {test} from "tap"
 
-import replaceWhen from "./"
+import replaceWhen from "./index"
 
 const isEven = (value) => value % 2 === 0
 
