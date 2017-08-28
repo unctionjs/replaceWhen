@@ -5,7 +5,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> PredicateType -> ValueType -> IterableType
+> PredicateType -> ValueType -> FunctorType
 
 Replaces values in an iterable with another value based on a predicate.
 
