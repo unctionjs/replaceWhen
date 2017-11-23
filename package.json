@@ -1,6 +1,6 @@
 {
   "name": "@unction/replacewhen",
-  "version": "2.45.0",
+  "version": "2.46.0",
   "description": "Replaces values in an iterable with another value based on a predicate",
   "keywords": [
     "unction",
