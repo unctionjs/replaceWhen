@@ -55,7 +55,7 @@
     "@unction/always": "3.0.0",
     "@unction/ifthenelse": "3.0.0",
     "@unction/itself": "3.0.0",
-    "@unction/mapvalues": "5.0.0"
+    "@unction/mapvalues": "6.0.0"
   },
   "nyc": {
     "require": [
