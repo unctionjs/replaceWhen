@@ -54,8 +54,7 @@
     "@unction/always": "4.1.0",
     "@unction/ifthenelse": "4.1.0",
     "@unction/itself": "4.1.0",
-    "@unction/mapvalues": "10.5.0",
-    "core-js": "3.0.1"
+    "@unction/mapvalues": "10.5.0"
   },
   "nyc": {
     "require": [
