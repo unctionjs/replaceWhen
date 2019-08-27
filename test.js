@@ -1,7 +1,7 @@
 /* eslint-disable no-magic-numbers */
 import {test} from "tap";
 
-import replaceWhen from "./index";
+import replaceWhen from "./";
 
 const isEven = (value) => value % 2 === 0;
 
