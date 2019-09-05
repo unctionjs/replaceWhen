@@ -4,7 +4,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> PredicateFunctionType => mixed => FunctorType
+> PredicateFunctionType<A> => B => Function
 
 Replaces values in an functor with another value based on a predicate.
 
