@@ -1,5 +1,5 @@
 /* eslint-disable no-magic-numbers */
-import replaceWhen from "./index.ts";
+import replaceWhen from "./index";
 
 const isEven = (value) => value % 2 === 0;
 
