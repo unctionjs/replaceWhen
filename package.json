@@ -56,7 +56,7 @@
     "@unction/always": "4.1.2",
     "@unction/ifthenelse": "4.1.2",
     "@unction/itself": "4.1.2",
-    "@unction/mapvalues": "10.8.0"
+    "@unction/mapvalues": "10.9.0"
   },
   "files": [
     "index.ts",
